@@ -9,7 +9,7 @@ var outputtxt = document.querySelector("#txt-output");
 
 
 
-var serverURL = "https://api.funtranslations.com/translate/minion.json";
+var serverURL = "https://api.funtranslations.com/translate/banana.json";
 // Url creator
 function urlcreator(input){
     return serverURL + "?" + "text=" + input ;
